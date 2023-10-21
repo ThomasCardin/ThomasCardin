@@ -1,9 +1,8 @@
 name: Generate Contribution Graph
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 0 * * SUN'
 
 jobs:
   build:
