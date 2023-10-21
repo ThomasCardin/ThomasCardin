@@ -2,7 +2,8 @@ name: Generate Contribution Graph
 
 on:
   push:
-    - main
+    branches:
+      - main
 
 jobs:
   build:
