@@ -30,7 +30,6 @@
               <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasCardin&theme=algolia" alt="oribendet"/>
           </div>
       </p>
-      <br>
     </td>
   </tr>
   <tr>
