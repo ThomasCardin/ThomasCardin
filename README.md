@@ -19,13 +19,13 @@
       <h2> 📈 &nbsp;Stats </h2>
       <p align="center">
         <div>
-            <img height="200" width="350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThomasCardin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+            <img height="200" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThomasCardin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </div>
         <div>
-            <img height="240" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasCardin&langs_count=4&theme=algolia&layout=compact"/>
+            <img height="240" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasCardin&langs_count=4&theme=algolia&layout=compact"/>
         </div>
         <div>
-            <img height="200" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasCardin&theme=algolia" alt="oribendet"/>
+            <img height="200" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasCardin&theme=algolia" alt="oribendet"/>
         </div>
       </p>
     </td>
