@@ -63,8 +63,15 @@
      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
    </td>
    <td>
-    <h2>📧 &nbsp; How to Reach Me</h2>
-    
+    <h2> 🐍 </h2>
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+        <img width="400px" alt="github-snake" src="dist/github-snake.svg" />
+      </picture>
+    </p>
+    <br><br><br><br>
   </td>
   </tr>
 </table>
