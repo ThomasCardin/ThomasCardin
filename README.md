@@ -56,21 +56,21 @@
      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
    </td>
    <td>
-    <div align="center">
-        <h2><b>How to Reach Me</b></h2>
-        <br>
-        <div>
-            <a href="mailto:tomcardin@outlook.com">
-                <img align="center" alt="Thomas Cardin | Outlook" width="200" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-            </a>
-        </div>
-        <br>
-        <div>
-            <a href="https://www.linkedin.com/in/thomas-cardin-349056185">
-                <img align="center" width="200" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
-        </div>
-    </div>
+    <h2>📧 &nbsp; How to Reach Me</h2>
+    <p align="center>
+       <a href="mailto:tomcardin@outlook.com">
+      <img align="center" alt="Thomas Cardin | Outlook" width="150" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    </a>  
+    <br><br>
+    <a href="https://www.linkedin.com/in/thomas-cardin-349056185">
+      <img align="center" alt="Thomas Cardin | Linkedin" width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <br><br>
+    <a href="https://discord.com/users/272554722605400064">
+      <img align="center" alt="Thomas Cardin | Discord" width="150" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <br><br>
+      </p>
   </td>
   </tr>
 </table>
