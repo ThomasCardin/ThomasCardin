@@ -6,21 +6,27 @@
        <ul>
         <li>🎓 &nbsp; Student in software engineering at <a href="https://www.etsmtl.ca/">ÉTS.</a></li>
         <li>🤔 &nbsp; Interested in SRE, DevOps and cybersecurity.</li>
-       </ul>
-       <p align="center">
-         <br>
-           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThomasCardin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-         <br>
-      </p>
+        <li>📧 &nbsp; How to reach me:
+          <br><br>
+          <a href="mailto:tomcardin@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>  
+          <a href="https://www.linkedin.com/in/thomas-cardin-349056185"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+          <a href="https://discord.com/users/272554722605400064"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+       </li>
+      </ul>
+      <br><br><br><br>
     </td>
-    <td>
+    <td rowspan="2">
+      <h2> 📈 &nbsp;Stats </h2>
       <p align="center">
-          <div>
-              <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasCardin&langs_count=4&theme=algolia&layout=compact"/>
-          </div>
-          <div>
-              <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasCardin&theme=algolia" alt="oribendet"/>
-          </div>
+        <div>
+            <img height="auto" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThomasCardin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </div>
+        <div>
+            <img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasCardin&langs_count=4&theme=algolia&layout=compact"/>
+        </div>
+        <div>
+            <img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasCardin&theme=algolia" alt="oribendet"/>
+        </div>
       </p>
     </td>
   </tr>
@@ -53,22 +59,5 @@
      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
    </td>
-   <td>
-    <h2>📧 &nbsp; How to Reach Me</h2>
-    <p align="center>
-      <a href="mailto:tomcardin@outlook.com">
-        <img align="center" alt="Thomas Cardin | Outlook" width="150" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-      </a>  
-      <br><br>
-      <a href="https://www.linkedin.com/in/thomas-cardin-349056185">
-        <img align="center" alt="Thomas Cardin | Linkedin" width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <br><br>
-      <a href="https://discord.com/users/272554722605400064">
-        <img align="center" alt="Thomas Cardin | Discord" width="150" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-      </a>
-      <br><br>
-    </p>
-  </td>
   </tr>
 </table>
