@@ -6,6 +6,13 @@
        <ul>
         <li>🎓 &nbsp; Student in software engineering at <a href="https://www.etsmtl.ca/">ÉTS.</a></li>
         <li>🤔 &nbsp; Interested in SRE, DevOps and cybersecurity.</li>
+        <li>📧 &nbsp; How to reach me:
+          <p align="left">
+            <a href="mailto:tomcardin@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>  
+            <a href="https://www.linkedin.com/in/thomas-cardin-349056185"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+            <a href="https://discord.com/users/272554722605400064"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+          </p>
+        </li>
        </ul>
        <p align="center">
          <br>
@@ -55,20 +62,7 @@
    </td>
    <td>
     <h2>📧 &nbsp; How to Reach Me</h2>
-    <p align="center>
-      <a href="mailto:tomcardin@outlook.com">
-        <img align="center" alt="Thomas Cardin | Outlook" width="150" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-      </a>  
-      <br><br>
-      <a href="https://www.linkedin.com/in/thomas-cardin-349056185">
-        <img align="center" alt="Thomas Cardin | Linkedin" width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <br><br>
-      <a href="https://discord.com/users/272554722605400064">
-        <img align="center" alt="Thomas Cardin | Discord" width="150" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-      </a>
-      <br><br>
-    </p>
+    
   </td>
   </tr>
 </table>
