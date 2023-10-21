@@ -21,6 +21,7 @@
       </p>
     </td>
     <td>
+      <h2> 📈 &nbsp;Stats </h2>
       <p align="center">
           <div>
               <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasCardin&langs_count=4&theme=algolia&layout=compact"/>
