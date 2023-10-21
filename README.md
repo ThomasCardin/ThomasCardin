@@ -70,7 +70,7 @@
         <img width="400px" alt="github-snake" src="dist/github-snake.svg" />
       </picture>
     </p>
-    <br><br><br><br>
+    <br><br><br><br><br>
   </td>
   </tr>
 </table>
