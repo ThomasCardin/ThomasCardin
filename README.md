@@ -5,7 +5,7 @@
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; Student in software engineering at <a href="https://www.etsmtl.ca/">ÉTS.</a></li>
-        <li>🎯 &nbsp; SRE, DevOps and cybersecurity.</li>
+        <li>🎯 &nbsp; SRE, Platform, DevOps and cybersecurity.</li>
         <li>📧 &nbsp; How to reach me:
           <p align="left">
             <a href="mailto:tomcardin@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>  
