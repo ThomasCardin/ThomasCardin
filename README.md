@@ -13,8 +13,11 @@ Expertise in container orchestration, cloud infrastructure, and DevOps practices
 
 ## 🏆 Professional Certifications
 
-<a href="https://www.credly.com/badges/a8903e8b-68ad-42c4-8fe9-1744a5ccf693">
+<a href="https://www.credly.com/badges/a8903e8b-68ad-42c4-8fe9-1744a5ccf693/public_url">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/6e6fa78d-f497-4423-9329-1914a72fa34c/public_url">
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="150"/>
 </a>
 
 ## 🛠️ Technologies & Tools
