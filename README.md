@@ -17,7 +17,10 @@ Expertise in container orchestration, cloud infrastructure, and DevOps practices
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/6e6fa78d-f497-4423-9329-1914a72fa34c/public_url">
-  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="150"/>
+  <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/9e34335c-e4c3-4948-95e3-54952f33659c/public_url">
+  <img src="https://images.credly.com/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="Cilium Certified Associate" width="150"/>
 </a>
 
 ## 🛠️ Technologies & Tools
